@@ -38,11 +38,11 @@ html{
 }
 /* all similar content styling codes */
 section{
-    padding:30px 0;
+    padding:10px 0;
 }
 .max-width{
     max-width: 1300px;
-    padding: 0 30px;
+    padding: 0 25px;
     /* margin: auto; */
 }
 .about, .services, .skills, .events, .contact, footer{
@@ -84,13 +84,10 @@ section .title::before{
     position: relative;
     height: auto;
 }
-header{
-  max-height: 100vh;
-	/* overflow: hidden; */
- }
+/* s */
 .vid-bg{
 	position: absolute;
-  top: 100px;
+  top: 63px;
 	right: 0;
 	bottom: 0;
 	max-width: 100%;
@@ -99,7 +96,14 @@ header{
   object-fit: fill;
   z-index: -999 !important;
 } 
-
+.fix #particles-js{
+  position:absolute;
+  max-width:100%;
+  min-width:100%;
+  background-size:fill;
+  background-position:center;
+  background-repeat:no-repeat
+}
 
 /* Style for the search page*/
 /* .openBtn {
@@ -251,7 +255,7 @@ header{
     display: flex;
     height: 100vh;
     padding-top: 100px;
-    color: rgb(243, 241, 241);
+    color: rgb(241, 233, 233);
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
@@ -267,7 +271,7 @@ header{
 }
 .home .home-content .text-1{
     font-size: 50px;
-    color:#fff;
+    color:white;
     line-height: 70px !important;
     padding: 20px 20px;
 }
@@ -275,12 +279,13 @@ header{
     font-size: 25px;
     font-weight: 300;
     margin-left: -3px;
-    color:#fff;
+    color:rgb(255, 255, 255);
     padding: 20px 20px;
 }
 
 .home .home-content .text-2 span{
     color: var(--main-color);
+    font-size: 40px;
     font-weight: 500;
 }
 .home .home-content a{
@@ -322,8 +327,8 @@ header{
 
 }
 .about .about-content .left p{
-    font-size: 16px;
-    color: #4d4d4f !important;
+    font-size: 20px;
+    color: #000000 !important;
     border-left: 5px solid #4d4d4f;
     padding-left: 10px !important;
 }
@@ -786,7 +791,7 @@ footer {
       min-height: auto;
     }
     .home .max-width{
-      width: 100vh;
+      width: 70vh;
       display: flex;
     }
     .home .max-width .row{
@@ -805,6 +810,7 @@ footer {
     }
     .home .home-content .text-2 span{
         color: var(--main-color);
+        font-size: 20px;
         font-weight: 500;
     }
     .home .home-content a{
@@ -824,6 +830,13 @@ footer {
         color: var(--main-color);
         background: none;
     }
+    .about .about-content .left p {
+      font-size: 20px;
+      color: #444448 !important;
+      border-left: 5px solid #4d4d4f;
+      padding-left: 10px !important;
+      margin-bottom: 10px !important;
+  }
     
     .wrapper .nav-links{
       position: fixed;
@@ -956,6 +969,12 @@ footer {
     display: none;
   }
 
+  @media (min-width: 768px){
+.col-md-3 {
+    /* -ms-flex: 0 0 25%; */
+    flex: 0 0 25% !important;
+    max-width: 100% !important;
+}
   
 
 

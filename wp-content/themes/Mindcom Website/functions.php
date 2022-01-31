@@ -57,10 +57,8 @@ function load_js()
 		wp_register_script('bootstrap', get_template_directory_uri() . '/assets/js/bootstrap.min.js', 'jquery', false, true);
 		wp_enqueue_script('bootstrap');
 
-    
-
-        // wp_register_style('bootstrap-bundle', get_template_directory_uri() . '/assets/js/bootstrap.bundle.min.js', 'jquery', false, 'all' );
-        // wp_enqueue_style('bootstrap-bundle');
+        wp_register_script('particles-js', get_template_directory_uri() . '/assets/js/particles/particles.js', 'jquery', false, true);
+		wp_enqueue_script('particles-js');
 
         wp_register_script('jquerymin', get_template_directory_uri() . '/assets/js/jquery.js', 'jquery', false, true);
 		wp_enqueue_script('jquerymin');
@@ -119,11 +117,7 @@ add_action('wp_enqueue_scripts','enqueue_fa_script');
 
 //this is for the model box 
 function webrpoint_enqueue_customjs(){
-    // wp_enqueue_script('custom1','https://code.jquery.com/jquery-3.5.1.min.js');
     wp_enqueue_script('custom2','https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js');
-    // wp_enqueue_script('custom3','https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js');
-    // wp_enqueue_style('custom4','https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css');
-    // wp_enqueue_style('custom5','https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css');
 }
 add_action('wp_enqueue_scripts','webrpoint_enqueue_customjs');
 
