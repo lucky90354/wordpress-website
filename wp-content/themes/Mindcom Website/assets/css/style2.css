@@ -1,7 +1,7 @@
  
 /* Css For Mindcom Pages */
 /*  import google fonts */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
 
  :root {
   --main-color:#640E27;
@@ -32,7 +32,7 @@ body {
   line-height:28px;
   font-weight:400;
   background:#ffffff;
-  font-family: 'Arimo', sans-serif ;
+  font-family: 'Open Sans', sans-serif ;
   background-size:cover;
   background-repeat:no-repeat;
   background-position:center top;
@@ -143,7 +143,7 @@ a:hover{
 }
 
 input,button,select,textarea{
-  /* font-family: 'Arimo', sans-serif ; */
+  font-family: 'Arimo', sans-serif ;
   font-weight: 400;
   font-size: 16px;
 }
@@ -170,7 +170,7 @@ p{
   position: relative;
   font-size: 16px;
   line-height: 28px;
-  /* font-family: 'Poppins', sans-serif ; */
+  font-family: 'Poppins', sans-serif ;
   color: #666666;
   margin: 0px;
   transition: all 500ms ease;
@@ -178,7 +178,7 @@ p{
 
 h1,h2,h3,h4,h5,h6{
   position:relative;
-  /* font-family: 'Arimo', sans-serif ; */
+  font-family: 'Arimo', sans-serif ;
   font-weight: 400;
   color: #000000;
   margin: 0px;
@@ -922,6 +922,7 @@ elementli a:hover{
 .main-header.style-one .main-menu .navigation > li > a{
   padding-right: 0px;
   text-decoration: none;
+  font-family: 'Roboto', sans-serif;
 }
 
 .main-header.style-one .main-menu .navigation > li > a:before{
@@ -1002,7 +1003,7 @@ elementli a:hover{
 
 .main-menu .navigation > li > .megamenu .row ul li a:hover{
   color: var(--main-color) !important;
-  background-color: rgb(216, 211, 211) !important;
+  background-color: rgb(255, 255, 255) !important;
   border-radius: 2px !important;
 }
 

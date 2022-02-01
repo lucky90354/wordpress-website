@@ -5,13 +5,12 @@
     ================================================== -->
 <div class="fix" id="fix">
     <div id="particles-js">
-        <video id="particles-js" src="/wp-content/uploads/2022/01/globe.mp4" class="vid-bg" autoplay loop muted></video>
+        <img id="particles-js" src="/wp-content/uploads/2022/02/117415.jpg" class="vid-bg" autoplay loop muted>
     </div>
     <section class="home" id="home">
         <div class="max-width">
             <div class="home-content">
                 <div class="text-1">We are Mindcomgroup</div>
-
                 <div class="text-2">Enterprise to <span class="typing"></span></div>
             </div>
         </div>
@@ -52,7 +51,7 @@
 <!-- services section start -->
 <section class="services" id="services">
     <div class="max-width">
-        <h2 class="title"><b>Our services</b></h2>
+        <h2 class="title" style="color:#640E27 !important"><b>Our services</b></h2>
         <div class="row serv-content">
             <div class=" col-md-3 h-100">
                 <div class="card ">

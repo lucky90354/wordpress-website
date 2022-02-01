@@ -47,8 +47,10 @@
                                     our skill sets. </p>
                             </div>
                             <div class="year-box">
-                                <figure class="image-box"><img src="/wp-content/uploads/2022/01/14.webp" height="110px" width="100%"
+                            <div class="figure" style="height: 100px !important; width:100%">
+                                <figure class="image-box"><img src="/wp-content/uploads/2022/02/14.png" 
                                         alt=""></figure>
+                            </div>
                                 <h5>years of unbeaten & trust of customers around the world</h5>
                             </div>
                         </div>

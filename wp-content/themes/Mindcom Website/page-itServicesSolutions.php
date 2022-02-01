@@ -40,7 +40,7 @@
                             <div class="sec-title left">
                             </div>
                             <div class="text">
-                                <p>
+                                <p style="color:#000 !important;">
                                     MINDCOM UNDERTAKES CUSTOM APPLICATION DEVELOPMENT EITHER AS A TURN-KEY SOLUTION OR
                                     AS PART OR LARGER CLIENT DEVELOPMENT TEAM. OUR CUSTOM APPLICATION DEVELOPMENT
                                     SERVICES PROVIDE THE IT BACKBONE FOR MANY PROJECTS, RIGHT FROM PROJECT INITIATION TO
