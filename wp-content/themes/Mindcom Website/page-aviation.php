@@ -7,7 +7,7 @@
     ================================================== -->
 
 <!--Page Title-->
-<section class="page-title centred" style="background-image: url(/wp-content/uploads/2022/01/aviation.jpg);">
+<section class="page-title centred" style="background-image: url(/wp-content/uploads/2022/02/Aviation.png);">
     <div class="auto-container">
         <div class="content-box clearfix">
             <h1>Aviation</h1>

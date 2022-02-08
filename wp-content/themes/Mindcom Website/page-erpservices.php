@@ -6,7 +6,7 @@
             Global Page Section Start
     ================================================== -->
 <!--Page Title-->
-<section class="page-title centred" style="background-image: url(/wp-content/uploads/2022/01/ERP-services-cover.jpg);">
+<section class="page-title centred" style="background-image: url(/wp-content/uploads/2022/02/ERP-Services.png);">
         <div class="auto-container">
             <div class="content-box clearfix">
                 <h1>ERP Services</h1>

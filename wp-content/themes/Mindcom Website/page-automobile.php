@@ -6,7 +6,7 @@
             Global Page Section Start
     ================================================== -->
  <!--Page Title-->
- <section class="page-title centred" style="background-image: url(/wp-content/uploads/2022/01/automobile-page-title.jpg);">
+ <section class="page-title centred" style="background-image: url(/wp-content/uploads/2022/02/automobile.png);">
         <div class="auto-container">
             <div class="content-box clearfix">
                 <h1>Automobile</h1>
@@ -47,10 +47,8 @@
                                     our skill sets. </p>
                             </div>
                             <div class="year-box">
-                            <div class="figure" style="height: 100px !important; width:100%">
                                 <figure class="image-box"><img src="/wp-content/uploads/2022/02/14.png" 
-                                        alt=""></figure>
-                            </div>
+                                         alt=""></figure>
                                 <h5>years of unbeaten & trust of customers around the world</h5>
                             </div>
                         </div>

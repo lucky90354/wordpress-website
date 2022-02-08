@@ -6,7 +6,7 @@
             Global Page Section Start
     ================================================== -->
 <!--Page Title-->
-<section class="page-title centred" style="background-image: url(/wp-content/uploads/2022/01/Bexcellence.jpeg);">
+<section class="page-title centred" style="background-image: url(/wp-content/uploads/2022/02/Business-Excellence-1.png);">
     <div class="auto-container">
         <div class="content-box clearfix">
             <h1>Business Excellence</h1>

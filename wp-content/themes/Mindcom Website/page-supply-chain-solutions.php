@@ -9,7 +9,7 @@
 
 
 <!--Page Title-->
-<section class="page-title centred" style="background-image: url(/wp-content/uploads/2022/01/supply-chain-solutions.webp);">
+<section class="page-title centred" style="background-image: url(/wp-content/uploads/2022/02/Supply-Chain-Solutions.png);">
     <div class="auto-container">
         <div class="content-box clearfix">
             <h1>Supply Chain Solutions</h1>

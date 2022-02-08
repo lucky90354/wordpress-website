@@ -541,7 +541,7 @@
 }
 
 .intro-section .upper-content .single-item .inner-box .icon-box{
-    background: -webkit-linear-gradient(-90deg, #640E27, #1b1214 50%);
+    background: -webkit-linear-gradient(-90deg, rgb(20, 157, 204), rgb(10, 34, 43) 50%);
 }
 
 .intro-section .upper-content .single-item .inner-box h3 a:hover{

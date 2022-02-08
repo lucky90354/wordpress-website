@@ -6,7 +6,7 @@
             Global Page Section Start
     ================================================== -->
   <!--Page Title-->
-  <section class="page-title centred" style="background-image: url(/wp-content/uploads/2022/01/what-we-stand-for-800x799-1.jpg);">
+  <section class="page-title centred" style="background-image: url(/wp-content/uploads/2022/02/what-we-stand-for.png);">
         <div class="auto-container">
             <div class="content-box clearfix">
                 <h1>What We Stand For</h1>

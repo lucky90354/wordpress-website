@@ -8,7 +8,7 @@
   
   
   <!--Page Title-->
-  <section class="page-title centred" style="background-image: url(/wp-content/uploads/2022/01/contactpagetitle.jpg);">
+  <section class="page-title centred" style="background-image: url(/wp-content/uploads/2022/02/contact-us.png);">
         <div class="auto-container">
             <div class="content-box clearfix">
                 <h1>Contact Us</h1>

@@ -6,7 +6,7 @@
             Global Page Section Start
     ================================================== -->
 <!--Page Title-->
-<section class="page-title centred" style="background-image: url(/wp-content/uploads/2022/01/engservice.jpg);">
+<section class="page-title centred" style="background-image: url(/wp-content/uploads/2022/02/Engineering-Services-.png);">
     <div class="auto-container">
         <div class="content-box clearfix">
             <h1>Engineering Services</h1>

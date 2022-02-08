@@ -10,7 +10,7 @@
 
     <!--Page Title-->
     <section class="page-title centred"
-        style="background-image: url(/wp-content/uploads/2022/01/hospital-management-software1s.jpg);">
+        style="background-image: url(/wp-content/uploads/2022/02/Hospitality-Management.png);">
         <div class="auto-container">
             <div class="content-box clearfix">
                 <h1>Hospitality Management</h1>

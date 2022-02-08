@@ -8,7 +8,7 @@
 
 
     <!--Page Title-->
-    <section class="page-title centred" style="background-image: url(/wp-content/uploads/2022/01/it_solutionspagetitle-1.jpg);">
+    <section class="page-title centred" style="background-image: url(/wp-content/uploads/2022/02/IT-Services.png);">
         <div class="auto-container">
             <div class="content-box clearfix">
                 <h1>IT Services & Solutions</h1>

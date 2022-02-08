@@ -7,7 +7,7 @@
     ================================================== -->
 
 <!--Page Title-->
-<section class="page-title centred" style="background-image: url(/wp-content/uploads/2022/01/healthcaretitle.jpg);">
+<section class="page-title centred" style="background-image: url(/wp-content/uploads/2022/02/Healthcare.png);">
     <div class="auto-container">
         <div class="content-box clearfix">
             <h1>Healthcare</h1>
@@ -54,7 +54,7 @@
                     <div class="single-item">
                         <div class="inner-box">
                             <!-- <div class="icon-box"><i class="flaticon-search"></i></div> -->
-                            <h3>ABOUT</h3>
+                            <h3 sytle="text:align">ABOUT</h3>
                             <p>Our is venture of MINDCOM Group, a gateway to corporate medical solutions worldwide.
                             </p>
                             <p>Our aims to simplify the corporate health management, helping the companies to have a

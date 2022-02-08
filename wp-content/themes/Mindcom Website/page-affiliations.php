@@ -7,7 +7,7 @@
     ================================================== -->
 
 <!--Page Title-->
-<section class="page-title centred" style="background-image: url(/wp-content/uploads/2022/01/affliations1-750x491-1.jpg);">
+<section class="page-title centred" style="background-image: url(/wp-content/uploads/2022/02/Affiliations-Appraisals.png);">
     <div class="auto-container">
         <div class="content-box clearfix">
             <h1>Affiliations & Appraisals</h1>

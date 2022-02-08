@@ -6,7 +6,7 @@
             Global Page Section Start
     ================================================== -->
 <!--Page Title-->
-<section class="page-title centred" style="background-image: url(/wp-content/uploads/2022/01/it_solutionspagetitle.jpg);">
+<section class="page-title centred" style="background-image: url(/wp-content/uploads/2022/02/Data-and-Analytics-.png);">
         <div class="auto-container">
             <div class="content-box clearfix">
                 <h1>Data and Analytics</h1>

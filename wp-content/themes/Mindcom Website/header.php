@@ -71,15 +71,13 @@
                                                     <ul>
                                                         <li><a href="/erp-services">ERP Services</a></li>
                                                         <li><a href="/training-services">Training Services  </a></li>
-                                                        
-                                                    </ul>
-                                                    <ul>
                                                         <li><a href="/managedapplicationservices">Managed Application Services</a></li>
-                                                        <li><a href="/data-analytics">Data and Analytics </a></li>
+                                                        
                                                     </ul>
                                                     <ul>
                                                         <li><a href="/applicationdevelopmentsupports">Application Development & Support</a></li>
                                                         <li><a href="/rims">Remote Infrastructure Management Services</a></li>
+                                                        <li><a href="/data-analytics">Data and Analytics </a></li>
                                                     </ul>                                  
                                             </div>
                                             <div class="row clearfix">
@@ -103,6 +101,7 @@
                                                     <ul>
                                                         <li><a href="/automobile">Automobile</a></li>
                                                         <li><a href="/aviation">Aviation</a></li>
+                                                        <li><a href="/industrialservices">Industrial Design & services</a></li>
                                                     </ul>
                                                     <ul>
                                                         <li><a href="/engineeringservices">Engineering Services</a></li>
@@ -112,9 +111,7 @@
                                                         <li><a href="/education">Education </a></li>
                                                         <li><a href="/healthcare">Healthcare</a></li>
                                                     </ul>
-                                                    <ul>
-                                                        <li><a href="/industrialservices">Industrial Design & services</a></li>
-                                                    </ul>                                  
+                                                                                      
                                             </div>
                                         </div>
                                     </li>

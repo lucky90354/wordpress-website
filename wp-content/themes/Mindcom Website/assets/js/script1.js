@@ -74,9 +74,9 @@ $(document).ready(function(){
  /* for the navborder */
 function topBorder() {
     var element = document.querySelector(".header-lower");
-    element.style.borderBottom = "3px solid #640E27";
+    element.style.borderBottom = "3px solid rgb(20, 157, 204)";
     var stickyHeader = document.querySelector(".sticky-header");
-    stickyHeader.style.borderBottom = "3px solid #640E27";
+    stickyHeader.style.borderBottom = "3px solid rgb(20, 157, 204)";
     stickyHeader.style.cursor = "pointer";
     element.style.cursor = "pointer";
     // element.classList.add("navbar-border");
@@ -105,7 +105,7 @@ particlesJS("particles-js", {
       shape: { type: "circle", stroke: { width: 0, color: "#000000" }, polygon: { nb_sides: 5 }, image: { src: "https://dummyimage.com/600x400/000/fff", width: 100, height: 100 } },
       opacity: { value: 0.49716301422833176, random: false, anim: { enable: false, speed: 1, opacity_min: 0.1, sync: false } },
       size: { value: 2, random: false, anim: { enable: false, speed: 35.964035964035965, size_min: 34.36563436563437, sync: false } },
-      line_linked: { enable: true, distance: 150, color: "#ffffff", opacity: 0.4, width: 1 },
+      line_linked: { enable: true, distance: 150, color: "#149DCC", opacity: 0.4, width: 1 },
       move: { enable: true, speed: 6, direction: "none", random: false, straight: false, out_mode: "out", bounce: false, attract: { enable: false, rotateX: 600, rotateY: 1200 } },
     },
     interactivity: {
@@ -119,6 +119,5 @@ particlesJS("particles-js", {
         remove: { particles_nb: 2 },
       },
     },
-    retina_detect: true,
   });
  

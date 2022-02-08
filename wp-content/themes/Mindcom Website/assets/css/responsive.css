@@ -249,7 +249,7 @@
   }
 
   .main-header.style-one .menu-area .mobile-nav-toggler .icon-bar{
-    background: var(--main-color) !important;
+    background: var(--secondary-color) !important;
   }
 
   .feature-block-one .inner-box{

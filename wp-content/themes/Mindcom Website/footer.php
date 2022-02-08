@@ -60,9 +60,9 @@
                 <div class="col-md-3 col-sm-12 col-xs-12">
                     <div class="foot-first-coloum">
                         <div class="gray-text font-weight-700 padding-bottom-16px text-transform-none"><span
-                                class="font-weight-400" style="float:right; text-align: center;">Connect with us</span>
-                        </div><br>
-                        <br>
+                                class="font-weight-400">Connect with us</span>
+                        </div>
+                        
                         <div class="row">
                             <!-- <div class="sm-padding-bottom-32px">
                                 <div class="social-network">
